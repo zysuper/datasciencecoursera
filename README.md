@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-# learning for "The Data Scientist's Toolbox"
+learning for "The Data Scientist's Toolbox"
